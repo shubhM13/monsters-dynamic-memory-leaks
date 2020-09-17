@@ -116,3 +116,7 @@ change region by region as calculations are performed – we’ll show you how t
   2 Pepper    
   5 Pumpkin   
       
+          
+![image](https://user-images.githubusercontent.com/43113962/93522019-7e4d9380-f94e-11ea-91b3-eb8867df833a.png)    
+    
+      
