@@ -21,11 +21,11 @@ change region by region as calculations are performed – we’ll show you how t
 
   8 monsters
   
-  StAugustine Grass 12
-  Zoysia Grass 8
-  WholeWheat Bread 6
-  MultiGrain Bread 10
-  Rye Bread 10
+  StAugustine Grass 12         
+  Zoysia Grass 8      
+  WholeWheat Bread 6    
+  MultiGrain Bread 10   
+  Rye Bread 10    
   Cinnamon Spice 5
   Pepper Spice 10
   Pumpkin Spice 30
