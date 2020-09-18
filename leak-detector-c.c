@@ -1,7 +1,7 @@
 #include	<stdio.h>
 #include	<stdlib.h>
 #include	<string.h>
-#include	"leak_detector_c.h"
+#include	"leak-etector-c.h"
 
 #undef		malloc
 #undef		calloc
